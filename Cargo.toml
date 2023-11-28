@@ -1,0 +1,15 @@
+[package]
+name = "sniffer_rdev"
+version = "0.1.0"
+edition = "2021"
+authors = ["Carlos Dominguez<carlosdomin@gmx.de>"]
+license = "MIT OR Apache-2.0"
+description = "Just a test"
+homepage = "https://github.com/CarlosDominguezSevillano/sniffer_test"
+repository = "https://github.com/CarlosDominguezSevillano/sniffer_test"
+keywords = ["demo"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rdev = "0.5.3"
